@@ -1,1 +1,1 @@
-# Projeto-curr-culo-online
+# Projeto-curriculo-online
